@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1597545487 source:c:\saintilma\desktop\avancement\commencement\a\debt\main.cpp
+	<iostream>
+	<string>
+	<ctime>
+	<cstdlib>
+
+1597614814 source:c:\saintilma\desktop\avancement\commencement\a\debt\digital.cpp
+	<iostream>
+
